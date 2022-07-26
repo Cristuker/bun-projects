@@ -1,6 +1,8 @@
+<div style="display:flex; flex-direction: row; flex-wrap: wrap">
 <img width="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/Cristuker/bun-projects/main/.github/logo.svg">
-
 <img src="https://raw.githubusercontent.com/Cristuker/bun-projects/main/.github/Bun.png">
+</div>
+
 ## Exemplos de código ultilizando bun
 
 [Link para documentação oficial](bun.sh)
